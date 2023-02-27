@@ -5,6 +5,12 @@ We learn 10 sprints during 4 month program.
 
 
 ### Google Sheets
+- vlookup
+- Dynamic Query
+- Converting Date
+- ID Card Parser
+
+https://docs.google.com/spreadsheets/d/1MidSOCG8lRA22SYUUPJP7r0RGwCXiS7xeFdGsrbtPa4/edit#gid=170494398
 ### SQL Database
 ### R Programming
 ### Data Transformation
