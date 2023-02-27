@@ -15,7 +15,8 @@ https://docs.google.com/spreadsheets/d/1MidSOCG8lRA22SYUUPJP7r0RGwCXiS7xeFdGsrbt
 ### R Programming
 ### Data Transformation
 ### Data Visualization
-### Intro to Statistics
+### Intro to Statistics 
+titanic.R
 ### Intro to Machine Learning
 ### Intro to Python
 ### Essential Python for Data Analyst
