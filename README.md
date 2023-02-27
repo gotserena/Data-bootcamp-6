@@ -16,7 +16,8 @@ https://docs.google.com/spreadsheets/d/1MidSOCG8lRA22SYUUPJP7r0RGwCXiS7xeFdGsrbt
 ### Data Transformation
 ### Data Visualization
 ### Intro to Statistics 
-titanic.R
+https://github.com/gotserena/Data-bootcamp-6/blob/f803d8e8b07e1941add7ab037c975768a80d879e/titanic.R
+
 ### Intro to Machine Learning
 ### Intro to Python
 ### Essential Python for Data Analyst
