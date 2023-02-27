@@ -13,6 +13,7 @@ We learn 10 sprints during 4 month program.
 https://docs.google.com/spreadsheets/d/1MidSOCG8lRA22SYUUPJP7r0RGwCXiS7xeFdGsrbtPa4/edit#gid=170494398
 ### SQL Database
 ### R Programming
+https://github.com/gotserena/Data-bootcamp-6/blob/a84344df31997995897afb0e4116aabab6a03554/pao%20ying%20chub.R
 ### Data Transformation
 ### Data Visualization
 ### Intro to Statistics 
