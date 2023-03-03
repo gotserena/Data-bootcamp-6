@@ -13,7 +13,7 @@ We learn 10 sprints during 4 month program.
 ### R Programming
 ### Data Transformation
 ### Data Visualization
-### Intro to Statistics 
+### Intro to Statistics : [Titanic](https://github.com/gotserena/Data-bootcamp-6/blob/main/titanic.R)
 
 ### Intro to Machine Learning
 ### Intro to Python
